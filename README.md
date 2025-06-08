@@ -15,7 +15,7 @@ F(z)=((z^5-1)/(z^10-512))^(2-2i)
 F(z)=sin(2πz)/z^3
 ![](./images/Untitled4.jpg)
 
-F(z)=(z+i+1)^3*(z^2+1)*e^(3/z)/(z-1)^2/(z+1)
+$$F(z) = \frac{(z+i+1)^3 \cdot (z^2+1) \cdot e^{3/z}}{(z-1)^2 \cdot (z+1)}$$
 ![](./images/Untitled5.jpg)
 
 Julia Set x1:
