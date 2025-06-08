@@ -1,5 +1,6 @@
 ﻿# ComplexFunctions
-![F(z)=((z^5-1)/(z^10-512))^2](./images/Untitled1.jpg)
+F(z)=((z^5-1)/(z^10-512))^2
+![](./images/Untitled1.jpg)
 
 F(z)=((z^5-1)/(z^10-512))^-2i
 ![](./images/Untitled2.jpg)
