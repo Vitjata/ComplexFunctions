@@ -1,4 +1,8 @@
-﻿# ComplexFunctions
+﻿# Some Complex Functions
+This repository contains visualizations of various complex functions using C#. 
+The images illustrate the behavior of these functions in interval:
+{z ∈ ℂ : -2 ≤ Re(z) ≤ 2, -2 ≤ Im(z) ≤ 2}
+
 F(z)=((z^5-1)/(z^10-512))^2
 ![](./images/Untitled1.jpg)
 
